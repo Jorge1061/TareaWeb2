@@ -1,0 +1,63 @@
+body{
+    background-image: url(../img/Fondo_Bandera.jpg);
+    background-size: contain"
+}
+
+#Encabezado {
+    padding-top: 20px;
+    width: 10%;
+    text-align: center;
+}
+
+#Título {
+    text-align: center;
+    padding-top: 55px;
+}
+
+#LineaVertical {
+    width: 5%;
+    border-right: 2px solid #9d0c1b;
+}
+
+#Objetivo{
+    padding-top: 15px;
+}
+p{
+    text-align: center;
+}
+h3{
+    
+    text-align: center;
+}
+
+ol{
+    padding-left: 100px;
+}
+
+#TablaPrincipal{
+    padding-right: 50px;
+    border: 0px;
+}
+.TablaSecundaria{
+    border-color: black;
+    border: 1px;
+    text-align: center;
+    width: 100%;
+}
+
+#video{
+    padding-top: 55px;
+    text-align: center;
+}
+
+#DerechosAutor{
+    padding-top: 60px;
+    text-align: center;
+}
+#MoreSpace{
+    padding-top: 25px;
+}
+
+ul{
+    text-align: center;
+}
